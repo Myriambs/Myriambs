@@ -1,12 +1,29 @@
-# 👋 Hello, I'm Myriam, a Full Stack dev 
+👋 Myriam Ben Salah | Full Stack Developer & QA Automation Engineer
+🎯 Specialized in building scalable web applications and comprehensive test automation solutions
+💼 What I Bring to Your Team:
 
-🌐 I'm passionate about building robust web applications and ensuring they run flawlessly.
+Frontend: React, JavaScript, HTML5, CSS3, Responsive Design
+Backend: Node.js, APIs, Database Management
+QA Automation: Playwright, Cucumber.js, Jest, JMeter, K6, Karate
+Testing: ISTQB Certified, End-to-End Testing, Performance Testing
+Tools: Git, GitHub, Agile Development, CI/CD, Problem-Solving
 
-📚 I'm constantly learning and evolving in this ever-changing tech landscape, from the latest front-end frameworks to optimizing back-end processes.
+🚀 Currently Working With:
 
-💡 I'm eager to collaborate on exciting projects that challenge the status quo and push the boundaries of what's possible in web development.
+Modern JavaScript frameworks & test automation tools
+Full-stack application architecture & E2E testing
+Performance optimization & comprehensive test coverage
 
-📫 Let's connect and explore the possibilities:
-   - Email: bensalah.meriem0@gmail.com  ||  
-   - LinkedIn:  https://www.linkedin.com/in/meriam-ben-salah-a921a7119/)https://www.linkedin.com/in/meriam-ben-salah-a921a7119/
-   
+📊 Open to Opportunities:
+✅ Full Stack Developer positions
+✅ QA Automation Engineer roles
+✅ Frontend Developer positions
+✅ Test Automation Specialist roles
+✅ Remote or Hybrid work
+✅ Junior to Mid-level positions
+🤝 Let's Connect:
+📧 Email: bensalah.meriem0@gmail.com
+💼 LinkedIn: Meriam Ben Salah
+🔗 Portfolio: [View My Projects Below ⬇️]
+
+💡 "Passionate about clean code, user experience, and continuous learning"
